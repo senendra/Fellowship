@@ -6,8 +6,13 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
              Console.ReadKey();
 ///this is check for conflict
+
+            Console.ReadKey();
+            ///hi
+
         }
     }
 }
