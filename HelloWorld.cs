@@ -9,8 +9,7 @@ namespace HelloWorld
 
              Console.ReadKey();
 ///this is check for conflict
-
-            Console.ReadKey();
+             Console.WriteLine("I am Senendra Deshlahre!!!");     
             ///hi
 
         }
